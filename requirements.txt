@@ -1,0 +1,11 @@
+langchain
+ipykernel
+python-dotenv
+langchain_groq
+langchain_openai
+langchain_core
+fastapi
+uvicorn
+langserve[all]
+sse_starlette
+pydantic==1.10.13
